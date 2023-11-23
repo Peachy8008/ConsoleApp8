@@ -1,0 +1,48 @@
+c:\users\pc 18\documents\visual studio 2015\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.exe.config
+c:\users\pc 18\documents\visual studio 2015\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.vbprojResolveAssemblyReference.cache
+c:\users\pc 18\documents\visual studio 2015\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.calcu.resources
+c:\users\pc 18\documents\visual studio 2015\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.login.resources
+c:\users\pc 18\documents\visual studio 2015\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Resources.resources
+c:\users\pc 18\documents\visual studio 2015\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.GenerateResource.Cache
+c:\users\pc 18\documents\visual studio 2015\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.exe
+c:\users\pc 18\documents\visual studio 2015\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.pdb
+c:\users\pc 18\documents\visual studio 2015\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.xml
+c:\users\pc 18\documents\visual studio 2015\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.exe
+c:\users\pc 18\documents\visual studio 2015\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.xml
+c:\users\pc 18\documents\visual studio 2015\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.pdb
+c:\users\pc 18\documents\visual studio 2015\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.register.resources
+C:\Users\PC 18\Documents\Visual Studio 2015\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\Interop.ADODB.dll
+C:\Users\PC 18\Documents\Visual Studio 2015\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.ResolveComReference.cache
+C:\Users\PC 18\Documents\Visual Studio 2015\Projects\CalcuVBNETDatabase\WindowsApplication5\bin\Debug\WindowsApplication5.exe.config
+C:\Users\PC 18\Documents\Visual Studio 2015\Projects\CalcuVBNETDatabase\WindowsApplication5\obj\Debug\Interop.ADODB.dll
+C:\Users\PC 18\Documents\Visual Studio 2015\Projects\CalcuVBNETDatabase\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.ResolveComReference.cache
+C:\Users\PC 18\Documents\Visual Studio 2015\Projects\CalcuVBNETDatabase\WindowsApplication5\obj\Debug\WindowsApplication5.exe
+C:\Users\PC 18\Documents\Visual Studio 2015\Projects\CalcuVBNETDatabase\WindowsApplication5\obj\Debug\WindowsApplication5.xml
+C:\Users\PC 18\Documents\Visual Studio 2015\Projects\CalcuVBNETDatabase\WindowsApplication5\obj\Debug\WindowsApplication5.pdb
+C:\Users\PC 18\Documents\Visual Studio 2015\Projects\CalcuVBNETDatabase\WindowsApplication5\bin\Debug\WindowsApplication5.exe
+C:\Users\PC 18\Documents\Visual Studio 2015\Projects\CalcuVBNETDatabase\WindowsApplication5\bin\Debug\WindowsApplication5.pdb
+C:\Users\PC 18\Documents\Visual Studio 2015\Projects\CalcuVBNETDatabase\WindowsApplication5\bin\Debug\WindowsApplication5.xml
+C:\Users\PC 18\Documents\Visual Studio 2015\Projects\CalcuVBNETDatabase\WindowsApplication5\obj\Debug\WindowsApplication5.vbprojResolveAssemblyReference.cache
+C:\Users\PC 18\Documents\Visual Studio 2015\Projects\CalcuVBNETDatabase\WindowsApplication5\obj\Debug\WindowsApplication5.calcu.resources
+C:\Users\PC 18\Documents\Visual Studio 2015\Projects\CalcuVBNETDatabase\WindowsApplication5\obj\Debug\WindowsApplication5.login.resources
+C:\Users\PC 18\Documents\Visual Studio 2015\Projects\CalcuVBNETDatabase\WindowsApplication5\obj\Debug\WindowsApplication5.Resources.resources
+C:\Users\PC 18\Documents\Visual Studio 2015\Projects\CalcuVBNETDatabase\WindowsApplication5\obj\Debug\WindowsApplication5.register.resources
+C:\Users\PC 18\Documents\Visual Studio 2015\Projects\CalcuVBNETDatabase\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.GenerateResource.Cache
+C:\Users\PC 18\Documents\Visual Studio 2015\Projects\CalcuVBNETDatabase\WindowsApplication5\obj\Debug\WindowsApplication5.Form1.resources
+C:\Users\Adrian\source\repos\CalcuVBNETDatabase2.0\WindowsApplication5\bin\Debug\WindowsApplication5.exe.config
+C:\Users\Adrian\source\repos\CalcuVBNETDatabase2.0\WindowsApplication5\bin\Debug\WindowsApplication5.exe
+C:\Users\Adrian\source\repos\CalcuVBNETDatabase2.0\WindowsApplication5\bin\Debug\WindowsApplication5.pdb
+C:\Users\Adrian\source\repos\CalcuVBNETDatabase2.0\WindowsApplication5\bin\Debug\WindowsApplication5.xml
+C:\Users\Adrian\source\repos\CalcuVBNETDatabase2.0\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.AssemblyReference.cache
+C:\Users\Adrian\source\repos\CalcuVBNETDatabase2.0\WindowsApplication5\obj\Debug\Interop.ADODB.dll
+C:\Users\Adrian\source\repos\CalcuVBNETDatabase2.0\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.ResolveComReference.cache
+C:\Users\Adrian\source\repos\CalcuVBNETDatabase2.0\WindowsApplication5\obj\Debug\WindowsApplication5.calcu.resources
+C:\Users\Adrian\source\repos\CalcuVBNETDatabase2.0\WindowsApplication5\obj\Debug\WindowsApplication5.Form1.resources
+C:\Users\Adrian\source\repos\CalcuVBNETDatabase2.0\WindowsApplication5\obj\Debug\WindowsApplication5.login.resources
+C:\Users\Adrian\source\repos\CalcuVBNETDatabase2.0\WindowsApplication5\obj\Debug\WindowsApplication5.Resources.resources
+C:\Users\Adrian\source\repos\CalcuVBNETDatabase2.0\WindowsApplication5\obj\Debug\WindowsApplication5.register.resources
+C:\Users\Adrian\source\repos\CalcuVBNETDatabase2.0\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.GenerateResource.cache
+C:\Users\Adrian\source\repos\CalcuVBNETDatabase2.0\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\CalcuVBNETDatabase2.0\WindowsApplication5\obj\Debug\WindowsApplication5.exe
+C:\Users\Adrian\source\repos\CalcuVBNETDatabase2.0\WindowsApplication5\obj\Debug\WindowsApplication5.xml
+C:\Users\Adrian\source\repos\CalcuVBNETDatabase2.0\WindowsApplication5\obj\Debug\WindowsApplication5.pdb
